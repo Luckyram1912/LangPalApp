@@ -71,7 +71,7 @@ React Native | Android | Mobile Developer
 
 <p align="center">
   <img src="assets/images/screenshots/Home.png" alt="Home" width="300" />
-  <img src="assets/images/screenshots/Home(1).png" alt="Home1" width="300" />
+  <img src="assets/images/screenshots/Home (1).png" alt="Home1" width="300" />
   <img src="assets/images/screenshots/Partners.png" alt="Partners" width="300" />
 </p>
 <p align="center">
