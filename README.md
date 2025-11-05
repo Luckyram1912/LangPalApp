@@ -67,14 +67,17 @@ React Native | Android | Mobile Developer
 🔗 [GitHub Profile](https://github.com/Luckyram1912)
 
 
-### 📸 Screenshots
+<details>
+  <summary>📸 <b>View App Screenshots</b></summary>
 
-<p align="center">
-  <img src="assets/images/screenshots/Home.png" alt="Home" width="300" />
-  <img src="assets/images/screenshots/Home (1).png" alt="Home1" width="300" />
-  <img src="assets/images/screenshots/Partners.png" alt="Partners" width="300" />
-</p>
-<p align="center">
-  <img src="assets/images/screenshots/conversation.png" alt="Conversation" width="300" />
-  <img src="assets/images/screenshots/Profile.png" alt="Profile" width="300" />
-</p>
+  <p align="center">
+    <img src="assets/images/screenshots/Home.png" alt="Home" width="250"/>
+    <img src="assets/images/screenshots/Home (1).png" alt="Home" width="250"/>
+    <img src="assets/images/screenshots/Partners.png" alt="Partners" width="250"/>
+  </p>
+  <p align="center">
+    <img src="assets/images/screenshots/conversation.png" alt="Conversation" width="250"/>
+    <img src="assets/images/screenshots/Profile.png" alt="Profile" width="250"/>
+  </p>
+
+</details>
