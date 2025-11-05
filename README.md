@@ -65,3 +65,16 @@ LangPalApp/
 React Native | Android | Mobile Developer  
 📧 gundalakshman4@gmail.com  
 🔗 [GitHub Profile](https://github.com/Luckyram1912)
+
+
+### 📸 Screenshots
+
+<p align="center">
+  <img src="assets/images/screenshots/home.png" alt="Home" width="300" />
+  <img src="assets/images/screenshots/home1.png" alt="Home1" width="300" />
+  <img src="assets/images/screenshots/partners.png" alt="Partners" width="300" />
+</p>
+<p align="center">
+  <img src="assets/images/screenshots/conversation.png" alt="Conversation" width="300" />
+  <img src="assets/images/screenshots/profile.png" alt="Profile" width="300" />
+</p>
