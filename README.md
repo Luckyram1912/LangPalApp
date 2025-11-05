@@ -36,4 +36,23 @@ LangPalApp/
 - ├── package.json # Dependencies and scripts.
 - └── README.md # Project documentation.
 
+---
 
+### ⚙️ **How to Run Locally**
+
+1. **Clone this repository**
+
+   git clone https://github.com/Luckyram1912/LangPalApp.git
+   cd LangPalApp
+
+2. **Install dependencies**
+
+   npm install
+
+3. **Start the app**
+
+   npx expo start
+
+4. **Open in Expo Go**
+
+   Scan the QR code displayed in your terminal using the Expo Go app on your iPhone or Android device
