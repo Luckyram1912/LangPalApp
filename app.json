@@ -1,41 +1,62 @@
 {
   "expo": {
-    "name": "LangPalApp",
-    "slug": "LangPalApp",
+    "name": "LangPal",
+    "slug": "langpal",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
-    "scheme": "langpalapp",
+    "icon": "./assets/images/langpal_logo.png",
+    "scheme": "langpal",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/langpal_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#C7FFE8",
+      "dark": {
+        "backgroundColor": "#0E1F1A"
+      }
+    },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.langpal.app",
+      "buildNumber": "1.0.0",
+      "infoPlist": {
+        "NSCameraUsageDescription": "LangPal needs camera access to set your profile picture.",
+        "NSPhotoLibraryUsageDescription": "LangPal needs access to your photos to select a profile image.",
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
+      "package": "com.langpal.app",
+      "versionCode": 1,
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
-        "backgroundImage": "./assets/images/android-icon-background.png",
-        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+        "backgroundColor": "#E6F4FE"
       },
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
     },
     "web": {
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/favicon.png",
+      "bundler": "metro"
     },
     "plugins": [
       "expo-router",
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/langpal_logo.png",
           "imageWidth": 200,
           "resizeMode": "contain",
-          "backgroundColor": "#ffffff",
+          "backgroundColor": "#C7FFE8",
           "dark": {
-            "backgroundColor": "#000000"
+            "backgroundColor": "#0E1F1A"
           }
         }
       ]
@@ -43,6 +64,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "06bf4fd9-e445-4d9a-a172-4a260c3cd485"
+      }
+    },
+    "owner": "lakshman_gunda"
   }
 }
