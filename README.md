@@ -23,7 +23,7 @@ A modern mobile app inspired by **Duolingo’s clean and interactive interface**
 - Expo Vector Icons  
 - Animated API  
 
----### 📁 **Folder Structure**
+### 📁 **Folder Structure**
 
 LangPalApp/
 ├── app/ # Screens and navigation setup
@@ -36,4 +36,3 @@ LangPalApp/
 └── README.md # Project documentation
 
 
----
