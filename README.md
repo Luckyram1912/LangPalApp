@@ -23,16 +23,17 @@ A modern mobile app inspired by **Duolingo’s clean and interactive interface**
 - Expo Vector Icons  
 - Animated API  
 
+---
 ### 📁 **Folder Structure**
 
 LangPalApp/
-├── app/ # Screens and navigation setup
-├── assets/images/ # Logo and images
-├── components/ # Reusable UI components
-├── constants/ # Color and theme configs
-├── scripts/ # Utility or build scripts
-├── app.json # App configuration
-├── package.json # Dependencies and scripts
-└── README.md # Project documentation
+├── app/ # Screens and navigation setup.
+├── assets/images/ # Logo and images.
+├── components/ # Reusable UI components.
+├── constants/ # Color and theme configs.
+├── scripts/ # Utility or build scripts.
+├── app.json # App configuration.
+├── package.json # Dependencies and scripts.
+└── README.md # Project documentation.
 
 
