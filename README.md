@@ -81,3 +81,11 @@ React Native | Android | Mobile Developer
   </p>
 
 </details>
+
+
+### 📸 Screenshots  
+[<img src="assets/images/screenshots/Home.png" width="100"/>](assets/images/screenshots/Home.png)
+[<img src="assets/images/screenshots/Home (1).png" width="100"/>](assets/images/screenshots/Home (1).png)
+[<img src="assets/images/screenshots/Partners.png" width="100"/>](assets/images/screenshots/Partners.png)
+[<img src="assets/images/screenshots/conversation.png" width="100"/>](assets/images/screenshots/conversation.png)
+[<img src="assets/images/screenshots/Profile.png" width="100"/>](assets/images/screenshots/Profile.png)
