@@ -1,50 +1,71 @@
-# Welcome to your Expo app 👋
+🌍 LangPal App Prototype
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Built with ❤️ using React Native (Expo) for the LangPal Internship Challenge.
 
-## Get started
 
-1. Install dependencies
+A modern React Native (Expo) mobile app prototype built for the LangPal Internship Challenge.
+It’s inspired by Duolingo’s clean and interactive interface, designed to connect language learners worldwide.
 
-   ```bash
-   npm install
-   ```
+✨ Features
 
-2. Start the app
+🏠 Home Screen – Smooth gradient background, LangPal logo, and animated “Find Partner” and “Start Conversation” buttons.
+💬 Find a Partner – List of potential language partners with their native and learning languages.
+📱 Start Conversation – Mock conversation preview screen showing sample chats.
+👤 Profile Screen – Displays user info (name, native, and learning languages).
+🌗 Dark Mode Toggle – Easily switch between light and dark themes.
+⚡ Interactive Animations – Buttons use spring animations for a fluid, delightful UI.
 
-   ```bash
-   npx expo start
-   ```
+🧠 Tech Stack
 
-In the output, you'll find options to open the app in a
+React Native (Expo)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+TypeScript
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+React Navigation (Stack + Tabs)
 
-## Get a fresh project
+Expo LinearGradient
 
-When you're ready, run:
+Expo Vector Icons
 
-```bash
-npm run reset-project
-```
+Animated API
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+📁 Folder Structure
 
-## Learn more
+LangPalApp/
+├── app/ — Screens and navigation setup
+├── assets/images/ — Logo and images
+├── components/ — Reusable UI components
+├── constants/ — Color and theme configs
+├── scripts/ — Utility or build scripts
+├── app.json — App configuration
+├── package.json — Dependencies and scripts
+└── README.md — Project documentation
 
-To learn more about developing your project with Expo, look at the following resources:
+⚙️ How to Run Locally
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Clone this repo
+git clone https://github.com/Luckyram1912/LangPalApp.git
 
-## Join the community
+cd LangPalApp
 
-Join our community of developers creating universal apps.
+Install dependencies
+npm install
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Start the app
+npx expo start
+
+Open in Expo Go
+Scan the QR code displayed in the terminal using the Expo Go app on your iPhone or Android device.
+
+🧑‍💻 Developer
+
+Lakshman Gunda
+React Native | Android | Mobile Developer
+📧 gundalakshman4@gmail.com
+
+🔗 GitHub: https://github.com/Luckyram1912
+
+✅ Save this file and push it using:
+git add README.md
+git commit -m "Clean formatted README without code blocks"
+git push
