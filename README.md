@@ -56,3 +56,12 @@ LangPalApp/
 4. **Open in Expo Go**
 
    Scan the QR code displayed in your terminal using the Expo Go app on your iPhone or Android device
+
+---
+
+### 🧑‍💻 **Developer**
+
+**Lakshman Gunda**  
+React Native | Android | Mobile Developer  
+📧 gundalakshman4@gmail.com  
+🔗 [GitHub Profile](https://github.com/Luckyram1912)
