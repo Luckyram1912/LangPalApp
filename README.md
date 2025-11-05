@@ -14,3 +14,13 @@ A modern mobile app inspired by **Duolingo’s clean and interactive interface**
 ⚡ **Interactive Animations** – Buttons use spring animations for a fluid, delightful UI.
 
 ---
+### 🧠 **Tech Stack**
+
+- React Native (Expo)  
+- TypeScript  
+- React Navigation (Stack + Tabs)  
+- Expo LinearGradient  
+- Expo Vector Icons  
+- Animated API  
+
+---
